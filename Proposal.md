@@ -28,7 +28,7 @@ Make a sample loan statement for FAFSA and Sallie Mae for the program to extract
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-Show how much money can be saved by letting the program make a payment plan (instead of paying off one student loan then moving on to the next). Display graphs for each loan.
+Show how much money can be saved by letting the program make a payment plan (instead of paying off one student loan then moving on to the next). Display graphs for each loan. Create a view for every loan that includes a pie chart showing the principal and interest. 
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
