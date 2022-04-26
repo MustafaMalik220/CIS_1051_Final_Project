@@ -1,0 +1,46 @@
+Consolidated Loan Report
+Created 04/25/2022
+Customer Alice Bobington Total Current Balance $41,097.85
+Number of Loans 4
+
+Loan #XXXX-XXXX-XXXX-XXXX Current Balance $9,259.76
+Loan Type Sallie Mae Smart Option Student Loan
+Role Borrower
+Status In-School - No Payment
+Fixed Interest Rate 5.0%
+Disbursement Details:
+Date Amount
+01/25/2022 $4,534.00
+09/08/2021 $4,534.00
+
+Loan #XXXX-XXXX-XXXX-XXXX Current Balance $9,710.18
+Loan Type Sallie Mae Smart Option Student Loan
+Role Borrower
+Status In-School - No Payment
+Fixed Interest Rate 4.75%
+Disbursement Details:
+Date Amount
+01/25/2021 $4,534.00
+09/08/2020 $4,534.00
+
+Loan #XXXX-XXXX-XXXX-XXXX Current Balance $10,183.84
+Loan Type Sallie Mae Smart Option Student Loan
+Role Borrower
+Status In-School - No Payment
+Fixed Interest Rate 4.75%
+Disbursement Details:
+Date Amount
+01/25/2020 $4,534.00
+09/08/2019 $4,534.00
+
+Loan #XXXX-XXXX-XXXX-XXXX Current Balance $11,944.07
+Loan Type Sallie Mae Smart Option Student Loan
+Role Borrower
+Status In-School - No Payment
+Fixed Interest Rate 8.0%
+Disbursement Details:
+Date Amount
+01/25/2019 $4,534.00
+09/08/2018 $4,534.00
+
+Consolidated Loan Report | Created 04/25/2022 

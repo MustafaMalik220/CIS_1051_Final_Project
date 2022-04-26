@@ -1,0 +1,20 @@
+Name: Alice Bobington 
+2022 Graduate of Temple University
+Major: Computer Science
+
+**Didn’t qualify for federal student aid.** 
+Tuition Rate per Semester: $10,284
+Grants/Scholarships Received per Semester: $3,500
+Amount she’s able to contribute from her part time job: $2,250
+___________________________________________________________________
+Loans: $4,534 / semester 
+___________________________________________________________________
+Academic Year	Loan Amount	Interest Rate
+2018-2019	$9,068		8.0%	Fixed
+2019-2020	$9,068		4.75%	Fixed
+2020-2021	$9,068		4.75% 	Fixed
+2021-2022	$9,068		5.0%	Fixed
+______________________________
+Total Principal:$36,274 
+
+Interest Accumulated:$4,823.85	
